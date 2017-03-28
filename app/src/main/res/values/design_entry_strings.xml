@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numberofsides_label">Number of Sides</string>
+    <string name="outerdiameter_label">Outer Diameter</string>
+    <string name="wallthickness_label">Wall Thickness</string>
+    <string name="calculatebutton_label">Calculate</string>
+</resources>
